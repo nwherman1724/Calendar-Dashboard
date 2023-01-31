@@ -29,7 +29,18 @@ SO THAT I can plan my day
 - WHEN I refresh the page
     - THEN my previous actions are still there, including my weather search and saved tasks 
 
-## Preview
+## Usage
+### Date
+The Date tile grabs the date on page load.
+
+### Schedule
+The schedule section allows you to type in an activity for each time block. Once you click save this activity will be saved in that time block until you delete it.
+
+### Weather
+The weather tile allow syou to input a city. Then when you click 'Get Weather Forecast' the weather for that city will show up below.
+
+### Random Movie Generator
+The Random Movie Generator tile allows you to click "Random Trending Movie". Once you do, a pop up with a random selection from one of the 20 most trending movies will show up on screen with the cover photo, the title, and the movie description.
 
 ![Screen Shot 2023-01-17 at 6 42 01 PM](https://user-images.githubusercontent.com/99048123/213052987-e520297e-558e-4fe9-a2a5-6d3943d667f5.png)
 
