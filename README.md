@@ -2,7 +2,7 @@
 
 ## :blue_book: Description
 
-This app was completed by a group of developers (see contributors). It was created to help organize your day to stay productive while providing suggestions for ways for the user to relax and rejuvenate (Randome Movie Generator). The app uses both bulma and bootstrap CSS Frameworks. It fetches data from the open weather map and the movie db apis. It stores and retreives text from local storage.
+This app was completed by a group of developers (see contributors). It was created to help organize your day to stay productive while providing suggestions for ways for the user to relax and rejuvenate (Randome Movie Generator). The app uses both bulma and bootstrap CSS Frameworks. It fetches data from the open weather map and the movie db apis. It stores and retrieves text from local storage.
 
 
 ## :bookmark_tabs: Table of Contents
