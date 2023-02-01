@@ -29,7 +29,7 @@ The Random Movie Generator tile allows you to click "Random Trending Movie". Onc
 ![Screen Shot 2023-01-17 at 6 42 01 PM](https://user-images.githubusercontent.com/99048123/213052987-e520297e-558e-4fe9-a2a5-6d3943d667f5.png)
 
 ## 🤝 Contribution
-This app was developer with Laura Sieck (https://github.com/lsieck519) and Mary Webby (https://github.com/marywebby).
+This app was developed with Laura Sieck (https://github.com/lsieck519) and Mary Webby (https://github.com/marywebby).
 
 This app is not open for further contribution.
 
