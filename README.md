@@ -9,7 +9,7 @@ This app was completed by a group of developers (see contributors). It was creat
 
   - [Description](#description)
   - [Usage](#usage)
-  - [Website Link](#Website Link)
+  - [Link](#link)
   - [Contribution](#contribution)
 
 ## :zap: Usage
@@ -28,7 +28,7 @@ The Random Movie Generator tile allows you to click "Random Trending Movie". Onc
 ![Screen Shot 2023-01-17 at 6 42 01 PM](https://user-images.githubusercontent.com/99048123/213052987-e520297e-558e-4fe9-a2a5-6d3943d667f5.png)
 
 
-## 🔗 Website Link
+## 🔗 Link
 
 https://lsieck519.github.io/Calendar-Dashboard/
 
